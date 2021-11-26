@@ -8,4 +8,4 @@ Coding Interview Questions:
 - [print prime numbers between 100 and 200](primeNums.py)
 - [remove character from string](removeChar.py)
 - [find all pairs in array of integers whose sum is equal to given number](sum_equal_num.py)
-- [find the k’th smallest element in an array](Kth_smalles.py)
+- [find the k’th smallest element in an array](Kth_smallest.py)
