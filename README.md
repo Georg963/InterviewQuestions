@@ -9,3 +9,4 @@ Coding Interview Questions:
 - [remove character from string](removeChar.py)
 - [find all pairs in array of integers whose sum is equal to given number](sum_equal_num.py)
 - [find the k’th smallest element in an array](Kth_smallest.py)
+- [Reverse an array in groups of given size](reverse.py)
