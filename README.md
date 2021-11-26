@@ -7,3 +7,4 @@ Coding Interview Questions:
 - [Given k sorted arrays of size n each, merge them and print the sorted output](merge.py)
 - [print prime numbers between 100 and 200](primeNums.py)
 - [remove character from string](removeChar.py)
+- [find all pairs in array of integers whose sum is equal to given number](sum_equal_num.py)
