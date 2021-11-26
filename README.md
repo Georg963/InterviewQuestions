@@ -1,6 +1,6 @@
 # Coding Interview Questions
 
-Coding Interview Question:
+Coding Interview Questions:
 - [first recurring Character](firstRecurringChar.py)
 - [fibonacci](fibonacci.py)
 - [find largest element in an array](largest_element.py)
