@@ -1,6 +1,7 @@
 # Coding Interview Questions
 
 Coding Interview Questions:
+- [logic gates](LogicGates.py)
 - [first recurring Character](firstRecurringChar.py)
 - [fibonacci](fibonacci.py)
 - [find largest element in an array](largest_element.py)
