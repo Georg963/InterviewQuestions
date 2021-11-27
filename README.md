@@ -10,3 +10,6 @@ Coding Interview Questions:
 - [find all pairs in array of integers whose sum is equal to given number](sum_equal_num.py)
 - [find the k’th smallest element in an array](Kth_smallest.py)
 - [Reverse an array in groups of given size](reverse.py)
+- [Find the number of 1’s in a sorted binary array](numOf1s.py)
+- [Move all zeros present in an array to the end](moveZeros.py)
+- [Find the maximum product of two integers in an array](maxProduct.py)
