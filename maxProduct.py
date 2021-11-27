@@ -8,8 +8,6 @@ def maxProd(x: list) -> tuple:
                 maxI, maxJ = i, j
     
     return x[maxI], x[maxJ]
-    pass
-
 
 if __name__ == '__main__':
     arr = [2,6,8,1,9,3,30]
