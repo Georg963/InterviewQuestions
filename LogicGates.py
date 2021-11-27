@@ -11,6 +11,7 @@ def OR(x: int, y: int) -> int:
     if x == 1 or y == 1:
         return 1
     return 0
+
 # It acts as an inverter. It takes only one input. If the input is given as 1, it will invert the result as 0 and vice-versa
 def NOT(x: int) -> int:
     if x == 1:
@@ -22,7 +23,6 @@ def XOR(x: int, y: int) -> int:
     if x != y:
         return 1
     return 0
-
 
 if __name__ == "__main__":
     x=1
