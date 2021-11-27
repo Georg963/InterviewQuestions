@@ -13,4 +13,4 @@ def rightRotate(x: list, k: int) -> list:
 if __name__ == "__main__":
     arr = [1,2,3,4,5,6,7]
     k = 3
-    print(rightRotate(arr, k))
+    print(rightRotate(arr, k)) #[5, 6, 7, 1, 2, 3, 4]
