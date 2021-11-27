@@ -3,6 +3,8 @@
 Coding Interview Questions:
 - [logic gates](LogicGates.py)
 - [first recurring Character](firstRecurringChar.py)
+- [right rotate an array K times](rightRotate.py)
+- [left rotate an array](leftRotate.py)
 - [fibonacci](fibonacci.py)
 - [find largest element in an array](largest_element.py)
 - [Given k sorted arrays of size n each, merge them and print the sorted output](merge.py)
