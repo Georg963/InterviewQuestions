@@ -11,4 +11,4 @@ def removeSpaces(s: str) -> str:
 
 if __name__ == "__main__":
     string_1 = " Hello .   This is   a Python   program !! "
-    print(removeSpaces(string_1))
+    print(removeSpaces(string_1)) #Hello. This is a Python program!!
