@@ -15,3 +15,4 @@ Coding Interview Questions:
 - [Find the number of 1’s in a sorted binary array](numOf1s.py)
 - [Move all zeros present in an array to the end](moveZeros.py)
 - [Find the maximum product of two integers in an array](maxProduct.py)
+- [Remove all extra spaces from a string](removeExtraSpaces.py)
