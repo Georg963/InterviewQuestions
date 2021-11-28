@@ -1,5 +1,5 @@
 '''
-left-rotate an array by specified positions. 
+rotate an array by specified positions. 
 '''
 def rotate(x: list, k:int) -> list:
     new_arr = x[k:]
