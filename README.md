@@ -4,6 +4,8 @@ Coding Interview Questions:
 - [logic gates](LogicGates.py)
 - [first recurring Character](firstRecurringChar.py)
 - [rotate an array by specified position](rotate.py)
+- [Given an integer n, return the number of prime numbers that are strictly less than n](countPrimes.py)
+- [Given an integer n, return true if it is a power of three. Otherwise, return false](powerOfThree.py)
 - [fibonacci](fibonacci.py)
 - [find largest element in an array](largest_element.py)
 - [Given k sorted arrays of size n each, merge them and print the sorted output](merge.py)
