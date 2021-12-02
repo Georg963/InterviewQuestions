@@ -2,7 +2,7 @@
 
 Coding Interview Questions:
 - [logic gates](LogicGates.py)
-- [minimum num. of deletions needed to remove mix and max from an array](removeMinMax.py)
+- [minimum num. of deletions needed to remove min and max from an array](removeMinMax.py)
 - [first recurring Character](firstRecurringChar.py)
 - [rotate an array by specified position](rotate.py)
 - [Given an integer n, return the number of prime numbers that are strictly less than n](countPrimes.py)
